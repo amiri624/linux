@@ -1,7 +1,4 @@
 
-
-
-
 # linux
 
 Linux kernel
