@@ -6,8 +6,6 @@
 
 
 
-
-
 # linux
 
 Linux kernel
