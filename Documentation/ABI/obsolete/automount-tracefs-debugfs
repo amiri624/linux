@@ -1,5 +1,4 @@
 
-
 What:		/sys/kernel/debug/tracing
 Date:		May 2008
 KernelVersion:	2.6.27
