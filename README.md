@@ -4,7 +4,6 @@
 
 
 
-
 # linux
 
 Linux kernel
