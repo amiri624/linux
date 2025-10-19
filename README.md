@@ -3,7 +3,6 @@
 
 
 
-
 # linux
 
 Linux kernel
