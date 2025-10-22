@@ -8,9 +8,3 @@ PCI Native Host Bridge and Endpoint Drivers
    :maxdepth: 2
 
 rcar-pcie-firmware
-
-.. SPDX-License-Identifier: GPL-2.0
-
-
-
-
